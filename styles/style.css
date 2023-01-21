@@ -24,6 +24,28 @@ hr{
     border:1px solid #d1d1d1;
     margin-bottom: 26px;
 }
+/* Navbar section */
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 94px;
+    background-color: #562EFF;
+    color:white;
+}
+.logo {
+    display:flex;
+    justify-content: space-between;
+}
+.menu {
+    display: flex;
+    gap:10px;
+}
+.link-img {
+    width: 51px;
+    height: 51px;
+}
 /* top player styles */
 .top-players {
     margin-bottom:30px ;
